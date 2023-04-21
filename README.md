@@ -5,12 +5,6 @@ Utilizando a Linguagem C#
 </a>
 </h1>
 
-## CONTEXTO
-A AEB (Agência Espacial Brasileira) entrou em contato com a turma da Academia do Programador 2023 para realização de um novo projeto.
-Com medo do Covid, o presidente Bolsonaro pretende se esconder do vírus em Marte, mas antes, a AEB vai enviar uma nave espacial (codinome Tupiniquim I) tripulada
-com um Robô para fazer análises do planeta vermelho. Os alunos da 9ª edição da Academia do Programador, reconhecidos como excelentes programadores, foram
-contratados para desenvolver o software que irá guiar o Robô nesta empreitada.
-
 ### 1 SOBRE O SISTEMA
 A área escolhida para análise é curiosamente retangular e os robôs devem andar por ela com suas câmeras ligadas coletando todo tipo de informação. A posição de um
 robô é representada por uma combinação de coordenadas X e Y e também uma letra representando a direção que ele está olhando. A área é dividida em um grid para
@@ -32,5 +26,3 @@ instruções de forma sequencial: o segundo robô só iniciará suas ações qua
 ### 3 SAÍDA
 Para cada robô, a posição final e sua orientação depois de executada as instruções.
 
-### 4 EXEMPLO
-Para cada robô, a posição final e sua orientação depois de executada as instruções.
